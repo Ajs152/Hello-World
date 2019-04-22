@@ -1,2 +1,5 @@
 # Hello-World
-Using the Guide
+
+Hello World!
+
+Ahmad here. This is my trial run of Github. Looks useful at the moment.
